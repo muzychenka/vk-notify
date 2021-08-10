@@ -1,0 +1,35 @@
+{
+	"manifest_version": 2,
+	"name": "VK Notify",
+	"description": "Фейковые оповещения для ВКонтакте",
+	"version": "1.0.0",
+	"icons": {"128": "logo.png"},
+	"browser_action": {
+			"default_popup": "index.html"
+	},
+	"permissions": ["activeTab", "*://*/*"],
+	"commands": {
+			"friend" : {
+					"suggested_key": {
+						 "default": "Alt+A"
+					},
+					"description": "добавление в друзья"
+			},
+			"like" : {
+					"suggested_key": {
+						 "default": "Alt+S"
+					},
+					"description": "лайк"
+			},
+			"message" : {
+					"suggested_key": {
+						 "default": "Alt+W"
+					},
+					"description": "сообщение"
+			}
+	},
+	"background": {
+			"scripts": ["background.js"]
+	},
+	"content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}

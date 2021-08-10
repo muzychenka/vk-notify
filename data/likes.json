@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "name": "Илья Давыдов",
+      "link": "https://vk.com/realmaddyson",
+      "avatar": "https://sun1.beltelecom-by-minsk.userapi.com/impg/TRrUD6OqInN-cfZTGxZeFxC2VjH5rqs9VvBoPg/ZA_92LtrxYo.jpg?size=50x0&quality=96&crop=0,0,1536,1536&sign=0d0670ab3c0c00a80e3860ae402f6e63&ava=1",
+      "gender": 0,
+      "title": "Ваш комментарий понравился",
+      "text": "Ваш крутой комментарий"
+    },
+    {
+      "name": "Илон Маск",
+      "link": "https://vk.com/realmaddyson",
+      "avatar": "https://sun2.beltelecom-by-minsk.userapi.com/s/v1/if2/1Alq_vZ6deotM2367CJn-1CAH-4fmSYCuaQ1jGtEO2WGriVa_B_LwNI9F72OrRddnJ2qjyM17uMQlIEkWqqDkxdg.jpg?size=50x50&quality=96&crop=407,65,408,408&ava=1",
+      "gender": 0,
+      "title": "Ваш комментарий понравился",
+      "text": "ваш комментарий <a>а я уже купил!</a> к записи <a>Илон Маск и новая Tesla</a>"
+    }
+  ]
+}
